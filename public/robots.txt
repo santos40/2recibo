@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onlinerecibo.com.br/sitemap.xml
+
+# Disallow admin and verification pages
+Disallow: /admin
+Disallow: /admin-login
+Disallow: /verify/*
